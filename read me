@@ -1,0 +1,76 @@
+# 📊 Power BI Dashboards & Data Projects
+
+Bienvenido a mi repositorio de proyectos realizados en Power BI. Aquí encontrarás una colección de dashboards interactivos, análisis de datos y modelos de negocio creados con el objetivo de transformar datos en decisiones estratégicas.
+
+## 🎯 Objetivo del Repositorio
+
+Este repositorio tiene como finalidad:
+
+- Demostrar habilidades en modelado de datos, DAX, Power Query y visualización.
+- Documentar proyectos reales de análisis e inteligencia de negocios.
+- Servir como portafolio profesional para procesos de selección o colaboración.
+- Compartir recursos reutilizables y buenas prácticas en Power BI.
+
+
+Cada proyecto incluye:
+
+- El archivo `.pbix` del dashboard.
+- Los datasets utilizados (formato Excel/CSV).
+- Un archivo `README.md` específico con el objetivo del análisis, preguntas clave respondidas y principales hallazgos.
+
+## 🛠️ Herramientas utilizadas
+
+- **Power BI Desktop**
+- **Power Query**
+- **Lenguaje DAX**
+- **Excel / CSV**
+- **Git & GitHub**
+
+## 📈 Proyectos destacados
+
+| Proyecto            | Descripción                                     | Tecnología |
+|---------------------|-------------------------------------------------|------------|
+| Ventas Retail       | Análisis de ventas, márgenes y desempeño por tienda. | Power BI + DAX |
+| Recursos Humanos    | Métricas de rotación, ausentismo y productividad. | Power BI + Power Query |
+| Análisis Financiero | Flujo de caja, costos fijos/variables y proyecciones. | Power BI + Excel |
+
+## 📌 ¿Cómo ver los dashboards?
+
+1. Clona este repositorio.
+2. Abre cualquier archivo `.pbix` con **Power BI Desktop**.
+3. Asegúrate de tener los datasets disponibles si es necesario refrescar los datos.
+
+## 🤝 Contribuciones
+
+Si quieres aportar con ideas, visualizaciones o nuevos datasets, ¡bienvenido! Puedes abrir un `issue` o hacer un `pull request`.
+
+## 📬 Contacto
+
+Si te interesa colaborar, contratar o simplemente conversar sobre datos:
+
+- 📧 Email: tuemail@ejemplo.com
+- 💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tu-usuario)
+
+---
+
+**Gracias por visitar este repositorio. Tu feedback es bienvenido.**
+
+
+## 📂 Estructura del Repositorio en contruccion.
+
+📁 proyectos/
+├── 📁 ventas_retail/
+│ ├── dashboard.pbix
+│ ├── datos_base.xlsx
+│ └── README.md
+├── 📁 recursos_humanos/
+│ ├── dashboard.pbix
+│ ├── empleados.csv
+│ └── README.md
+├── 📁 analisis_financiero/
+│ ├── dashboard.pbix
+│ └── costos_operativos.xlsx
+📁 docs/
+└── README.md
+
+
